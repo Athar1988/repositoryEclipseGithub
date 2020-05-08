@@ -4,4 +4,15 @@
   <artifactId>org.Test.Git.Eclipse</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>TestGitEclipse</name>
+  <url>https://github.com/Athar1988/repositoryEclipseGithub.git</url>
+  <dependencies>
+  <!-- https://mvnrepository.com/artifact/junit/junit -->
+<dependency>
+    <groupId>junit</groupId>
+    <artifactId>junit</artifactId>
+    <version>4.8.1</version>
+    <scope>test</scope>
+</dependency>
+  </dependencies>
+  
 </project>
